@@ -12,10 +12,10 @@ const config: Config = {
   },
 
   // CONFIGURAÇÃO DO GITHUB PAGES
-  url: 'https://tluizp.github.io', // Seu domínio do GitHub Pages
-  baseUrl: '/echotrace/', // O nome do repositório exato
-  organizationName: 'tluizp', // Seu usuário do GitHub
-  projectName: 'echotrace', // O nome do repositório no GitHub
+  url: 'https://tluizp.github.io',
+  baseUrl: '/EchoTraceDoc/',
+  organizationName: 'tluizp',
+  projectName: 'EchoTraceDoc',
   trailingSlash: false, // Recomendado para GitHub Pages
 
   onBrokenLinks: 'throw',
