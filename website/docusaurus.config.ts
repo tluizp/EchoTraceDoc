@@ -32,7 +32,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/tiagoluiz/echotrace/tree/main/',
+          editUrl: 'https://github.com/tluizp/echotrace/tree/main/',
         },
         blog: false, // Desativado para focar puramente no produto e na doc (caso queira reativar, mude para objeto)
         theme: {
@@ -66,7 +66,7 @@ const config: Config = {
           label: 'Documentação',
         },
         {
-          href: 'https://github.com/tiagoluiz/echotrace',
+          href: 'https://github.com/tluizp/echotrace',
           label: 'GitHub',
           position: 'right',
         },
@@ -89,7 +89,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub Project',
-              href: 'https://github.com/tiagoluiz/echotrace',
+              href: 'https://github.com/tluizp/echotrace',
             },
             {
               label: 'LinkedIn',
